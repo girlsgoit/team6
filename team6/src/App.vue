@@ -2,16 +2,9 @@
 </script>
 
 <template>
-  <header>
-
-    <div>
-    </div>
-  </header>
-
-  <main>
-  </main>
 </template>
-
 <style scoped>
 
 </style>
+<!-- animesaga.com/manga
+for props / link redirect params by id -->
